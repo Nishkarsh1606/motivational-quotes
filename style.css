@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 5%;
+}
+#quoteDisplay{
+    display: flex;
+    justify-content: center;
+}
+#authorDisplay{
+    display: flex;
+    justify-content: flex-end;
+}
